@@ -1,0 +1,14 @@
+- period: "2026.01 - Present"
+  name: "LLM Agent Post-training"
+  org: "Your Lab / Company"
+  bullets:
+    - "Preference optimization for tool-use and long-horizon tasks"
+    - "Evaluation design: offline metrics ↔ online reliability"
+
+- period: "2025.06 - 2025.12"
+  name: "RAG in Production"
+  org: "Your Team"
+  bullets:
+    - "Retriever/reranker ablations with cost-quality trade-offs"
+    - "Guardrails + citation-aware generation"
+

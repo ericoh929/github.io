@@ -1,0 +1,28 @@
+name: "Your Name"
+affiliation: "LLM Researcher · Your Lab/Company"
+location: "Seoul, Republic of Korea"
+
+email: "you@example.com"
+
+interests:
+  - "LLM reasoning"
+  - "Efficient post-training"
+  - "Multimodal / agents"
+  - "RAG & evaluation"
+  - "Safety & alignment"
+
+bio: >
+  I build large language models that are reliable, efficient, and measurable.
+  Recently I focus on post-training (SFT/RLHF/Preference optimization), evaluation,
+  and retrieval-augmented generation for real-world systems.
+
+links:
+  - label: "Google Scholar"
+    url: "https://scholar.google.com/"
+  - label: "GitHub"
+    url: "https://github.com/"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/"
+  - label: "CV (PDF)"
+    url: "https://example.com/cv.pdf"
+

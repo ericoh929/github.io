@@ -1,0 +1,22 @@
+- year: 2026
+  items:
+    - title: "Think Once, Judge Anywhere: Flexible Evaluation for LLM Systems"
+      authors: "**Your Name**, Coauthor A, Coauthor B"
+      venue: "Conference / Workshop 2026"
+      links:
+        - label: "Paper"
+          url: "https://arxiv.org/"
+        - label: "Code"
+          url: "https://github.com/"
+
+- year: 2025
+  items:
+    - title: "Efficient Post-Training at Scale with Preference Signals"
+      authors: "Coauthor A, **Your Name**, Coauthor C"
+      venue: "NeurIPS / ICML / ACL 2025"
+      links:
+        - label: "Paper"
+          url: "https://arxiv.org/"
+        - label: "Project"
+          url: "https://example.com/"
+
