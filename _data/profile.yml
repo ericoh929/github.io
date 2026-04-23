@@ -1,28 +1,25 @@
-name: "Your Name"
-affiliation: "LLM Researcher · Your Lab/Company"
+name: "Jihwan Oh"
+affiliation: "LLM Researcher · OSILAB/KAIST"
 location: "Seoul, Republic of Korea"
 
-email: "you@example.com"
+email: "ericoh92920@gmail.com"
 
 interests:
   - "LLM reasoning"
-  - "Efficient post-training"
-  - "Multimodal / agents"
-  - "RAG & evaluation"
-  - "Safety & alignment"
+  - "LLM agent"
+  - "LLM training"
+  - "Multi-agent system"
+  - "Social intelligence"
 
 bio: >
   I build large language models that are reliable, efficient, and measurable.
-  Recently I focus on post-training (SFT/RLHF/Preference optimization), evaluation,
-  and retrieval-augmented generation for real-world systems.
+  Recently I focus on multi-agent system training and evaluation
+  for social intelligence.
 
 links:
   - label: "Google Scholar"
-    url: "https://scholar.google.com/"
+    url: "https://scholar.google.com/citations?user=EqzucSIAAAAJ&hl=ko"
   - label: "GitHub"
     url: "https://github.com/"
-  - label: "LinkedIn"
-    url: "https://www.linkedin.com/"
-  - label: "CV (PDF)"
-    url: "https://example.com/cv.pdf"
+  
 
